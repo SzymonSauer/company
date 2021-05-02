@@ -173,17 +173,17 @@ section {
 }
 
 .first-product {
-	background-image: url('/img/raise-3338589_1920.jpg');
+	background-image: url('../img/raise-3338589_1920.jpg');
 }
 
 .second-product {
-	background-image: url('/img/keyboard-70506_1920.jpg');
+	background-image: url('../img/keyboard-70506_1920.jpg');
 }
 .third-product {
-	background-image: url('/img/apple-1851464_1920.jpg');
+	background-image: url('../img/apple-1851464_1920.jpg');
 }
 .fourth-product {
-	background-image: url('/img/laptop-336378_1920.jpg');
+	background-image: url('../img/laptop-336378_1920.jpg');
 }
 
 .product-text {
