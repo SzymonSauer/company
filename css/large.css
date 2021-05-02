@@ -1,0 +1,6 @@
+/* @media (min-width: 992px) */
+
+.header-img {
+	background-image: url('../img/wolf-2826741_1920.jpg');
+	background-size: cover;
+}
