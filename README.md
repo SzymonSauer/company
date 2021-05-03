@@ -1,2 +1,2 @@
 # company
-Website of the company that related to web development.
+Website of the company 'creativeDesign' related to web development.
